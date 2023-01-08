@@ -1,5 +1,5 @@
-# PM2105 For ESPHome
-CUBIC PM2105 I2C
+# PM2105/PM2005 For ESPHome
+CUBIC PM2105/PM2005 I2C
 
 | Name                 |  State   | Actions |
 | :------------------- | :------: | :------ |
